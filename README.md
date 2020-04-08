@@ -9,5 +9,5 @@ All models classify activity into 1 of 5 activity classes:
 2. 2 = Light Activity and Games
 3. 3 = Moderate-Vigorous Activity and Games
 4. 4 = Walking
-5. 5 = Running.
+5. 5 = Running  
 The accompanying [R script](https://github.com/MA-QUT/Preschool_EE_Models_PLOS_One/blob/master/predict%20on%20new%20data.R) provides examples to implement each model.
