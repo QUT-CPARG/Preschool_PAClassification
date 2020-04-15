@@ -1,4 +1,4 @@
-#' Make predictions on new data with the energy expenditure prediction models trained on free-living data
+#' Make predictions on new data with the activity classification models trained on free-living data
 # install and load the following packages:
 library(randomForest)
 library(RCurl)
